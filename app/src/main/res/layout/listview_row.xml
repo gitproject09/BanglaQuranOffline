@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lists_text_style"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:textColor="@color/color_white"
+    android:textAlignment="center"
+    android:background="@drawable/bg_parent_rounded_corner_quran"
+    android:padding="14dp"
+    android:textSize="15sp">
+
+</TextView>

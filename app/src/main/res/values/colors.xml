@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03B8D4</color>
+    <color name="colorPrimaryDark">#0293a9</color>
+    <color name="colorAccent">#016676</color>
+
+
+    <color name="color_white">#FFFFFF</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="quran_bg">#80000000</color>
+    <color name="feed_bg">#d3d6db</color>
+
+</resources>
